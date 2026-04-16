@@ -1,2 +1,9 @@
-# basic-url-shortener-app
-A simple url shortener project
+# Url Shortener
+
+A simple url shortener project.
+\n
+## Getting Started
+
+```bash
+python main.py
+```
